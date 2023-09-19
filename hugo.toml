@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Paul Does Software Things'
+theme = 'terminal'
+paginate = 5
+
+[params]
+    contentTypeName = "blog"
+    themeColor = "green"
+    showMenuItems = 3
+    fullWidthTheme = false
+    centerTheme = false
+
+[languages]
+    [languages.en]
+        title = "Paul Does Software Things"
+        subtitle = "A simple, retro theme for Hugo"
+        keywords = ""
+        copyright = ""
+        menuMore = "Show more"
+        readMore = "Read more"
+        readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+    logoText = "Paul Does Software Things"
+    logoHomeLink = "/"
+
+[languages.en.menu]
+    [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+    [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+    [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Blog"
+        url = "/posts"
