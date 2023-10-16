@@ -10,7 +10,7 @@ author = "Pavlo Paliychuk"
 >
 > Where? -> `Toronto, Canada`
 >
-> Stack? -> `Typescript, React, Kotlin, Flutter, Nest.js, Svelte, Go, Rust, GKE`
+> Stack? -> `Typescript, React, Kotlin, Flutter, Nest.js, Svelte, Go`
 
 #### What IS the gist? -> ⬇️
 Building a better hospitality industry with an amazing team of people. 
